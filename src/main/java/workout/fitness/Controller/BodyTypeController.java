@@ -9,9 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import lombok.RequiredArgsConstructor;
 import workout.fitness.Model.BodyType;
-import workout.fitness.Model.User;
 import workout.fitness.Service.BodyTypeService;
-import workout.fitness.Service.UserService;
+
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/bodytype")

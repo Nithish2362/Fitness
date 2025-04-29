@@ -11,5 +11,4 @@ public interface TdeeRepo extends JpaRepository<Tdee, String> {
     @Query("SELECT t FROM Tdee t WHERE t.activityName = :activityName")
     Tdee findByActivityName(String activityName);
 
-    
 }

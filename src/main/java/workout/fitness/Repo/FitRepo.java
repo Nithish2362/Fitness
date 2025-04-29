@@ -8,6 +8,4 @@ import workout.fitness.Model.Fit;
 @Repository
 public interface FitRepo extends JpaRepository<Fit, String> {
 
-
-    
 }

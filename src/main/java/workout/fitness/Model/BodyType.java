@@ -1,4 +1,5 @@
 package workout.fitness.Model;
+
 import jakarta.persistence.*;
 import lombok.*;
 

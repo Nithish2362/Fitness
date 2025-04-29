@@ -11,7 +11,6 @@ import lombok.RequiredArgsConstructor;
 import workout.fitness.Model.Tdee;
 import workout.fitness.Service.TdeeService;
 
-
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/tdee")

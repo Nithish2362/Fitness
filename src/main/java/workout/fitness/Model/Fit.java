@@ -2,7 +2,6 @@ package workout.fitness.Model;
 
 import jakarta.persistence.*;
 import lombok.*;
-import java.util.UUID;
 
 @Getter
 @Setter
